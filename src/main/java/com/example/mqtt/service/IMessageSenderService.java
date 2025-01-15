@@ -5,7 +5,7 @@ import com.example.mqtt.model.response.ServiceReply;
 import com.fasterxml.jackson.core.type.TypeReference;
 
 /**
- * @author sean.zhou
+ * @author lingkong
  * @version 0.1
  * @date 2021/11/25
  */

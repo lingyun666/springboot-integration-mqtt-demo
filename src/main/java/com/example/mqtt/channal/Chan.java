@@ -4,7 +4,7 @@ import java.util.concurrent.locks.LockSupport;
 
 /**
  * The demo is only for functional closure, which is not recommended.
- * @author sean.zhou
+ * @author lingkong
  * @date 2021/11/22
  * @version 0.1
  */

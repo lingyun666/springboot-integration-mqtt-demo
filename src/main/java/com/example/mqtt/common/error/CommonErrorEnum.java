@@ -1,7 +1,7 @@
 package com.example.mqtt.common.error;
 
 /**
- * @author sean.zhou
+ * @author lingkong
  * @version 0.1
  * @date 2021/11/25
  */

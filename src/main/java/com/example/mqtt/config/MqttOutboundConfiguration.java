@@ -12,7 +12,7 @@ import org.springframework.messaging.MessageHandler;
 
 /**
  * Client configuration for outbound messages.
- * @author sean.zhou
+ * @author lingkong
  * @date 2021/11/10
  * @version 0.1
  */

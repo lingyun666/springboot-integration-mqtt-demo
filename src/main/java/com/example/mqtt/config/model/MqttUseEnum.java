@@ -1,7 +1,7 @@
 package com.example.mqtt.config.model;
 
 /**
- * @author sean
+ * @author lingkong
  * @version 1.3
  * @date 2023/1/18
  */

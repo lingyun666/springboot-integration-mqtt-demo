@@ -2,7 +2,7 @@ package com.example.mqtt.model;
 
 /**
  * All the topics that need to be used in the project.
- * @author sean.zhou
+ * @author lingkong
  * @date 2021/11/10
  * @version 0.1
  */

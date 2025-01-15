@@ -3,7 +3,7 @@ package com.example.mqtt.config.model;
 import lombok.Getter;
 
 /**
- * @author sean
+ * @author lingkong
  * @version 1.3
  * @date 2023/1/18
  */

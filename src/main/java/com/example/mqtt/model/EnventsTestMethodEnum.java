@@ -6,7 +6,7 @@ import com.example.mqtt.channal.ChannelName;
 import java.util.Arrays;
 
 /**
- * @author yihui wang
+ * @author lingkong
  * @version 1.0
  * @description: TODO
  * @date 2023/7/26 14:29

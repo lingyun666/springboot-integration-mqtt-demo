@@ -5,7 +5,7 @@ import org.springframework.messaging.MessageHeaders;
 
 
 /**
- * @author sean
+ * @author lingkong
  * @version 1.2
  * @date 2022/7/29
  */

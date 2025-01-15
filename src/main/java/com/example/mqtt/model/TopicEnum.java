@@ -10,7 +10,7 @@ import static com.example.mqtt.model.TopicConst.*;
 
 
 /**
- * @author yihui wang
+ * @author lingkong
  * @version 1.0
  * @description: TODO
  * @date 2023/7/26 14:28

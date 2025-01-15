@@ -12,7 +12,7 @@ import java.util.concurrent.Executor;
 
 /**
  * Definition classes for all channels
- * @author sean.zhou
+ * @author lingkong
  * @date 2021/11/10
  * @version 0.1
  */

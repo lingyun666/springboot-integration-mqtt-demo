@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * Unified Topic response format
- * @author sean.zhou
+ * @author lingkong
  * @date 2021/11/15
  * @version 0.1
  */

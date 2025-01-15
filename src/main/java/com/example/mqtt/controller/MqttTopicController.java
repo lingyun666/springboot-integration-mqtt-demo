@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author yihui wang
+ * @author lingkong
  * @version 1.0
  * @description: TODO
  * @date 2023/7/26 16:05

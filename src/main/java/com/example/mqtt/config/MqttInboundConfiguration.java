@@ -21,7 +21,7 @@ import javax.annotation.Resource;
 /**
  * Client configuration for inbound messages.
  *
- * @author sean.zhou
+ * @author lingkong
  * @version 0.1
  * @date 2021/11/10
  */

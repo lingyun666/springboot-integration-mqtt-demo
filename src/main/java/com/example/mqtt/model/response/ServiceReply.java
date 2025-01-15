@@ -4,7 +4,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;
 
 /**
- * @author sean.zhou
+ * @author lingkong
  * @version 0.1
  * @date 2021/11/22
  */

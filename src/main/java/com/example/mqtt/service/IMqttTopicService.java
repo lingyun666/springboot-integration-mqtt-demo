@@ -5,7 +5,7 @@ import org.springframework.messaging.handler.annotation.Header;
 
 /**
  *
- * @author sean.zhou
+ * @author lingkong
  * @date 2021/11/10
  * @version 0.1
  */

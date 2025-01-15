@@ -3,7 +3,7 @@ package com.example.mqtt.common.error;
 /**
  * Live streaming related error codes. When on-demand via mqtt,
  * it can be matched with the error code information replied by the pilot.
- * @author sean.zhou
+ * @author lingkong
  * @version 0.1
  * @date 2021/11/25
  */
